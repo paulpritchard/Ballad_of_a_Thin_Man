@@ -7,15 +7,15 @@ I discuss how the illustration reflects the key components of the song,
 discuss each of the various characters individually,
 and tell how the project was conceived and carried out.
 
-![Ballad of a Thin Man, © Paul Pritchard, 2023](Ballad_of_a_Thin_Man_medium.jpg)
+![Ballad of a Thin Man, © Paul Pritchard, 2026](Ballad_of_a_Thin_Man_medium.jpg)
 
 ## The setting
 
 The setting for the illustration is a party at [Andy Warhol's Factory](https://en.wikipedia.org/wiki/The_Factory)
 in New York City in the mid-1960s.
-The Factory was decorated in meth chic style, with walls covered in tin-foil and broken mirrors and Warhol's prints displayed on them,
+The Factory was decorated in meth chic style, with silver paint and tin-foil and mirrors,  Warhol's prints displayed on the walls,
 and a distinctive shabby curved red velvet couch.
-(The Factory's floor was concrete; I've used artistic license to have floorboards instead.)
+The Factory's floor was concrete.
 
 ## The song
 
@@ -73,7 +73,7 @@ His name is Martin Scorsese.
 
 ### Bob Dylan
 
-<img src="image/Bob_Dylan.jpg" align="left" width="150px" style="margin: 0px 10px 0px 0px;">
+<img src="image/Bob_Dylan.jpg" align="left" width="200px" style="margin: 0px 10px 0px 0px;">
 
 [Bob Dylan](https://en.wikipedia.org/wiki/Bob_Dylan) was born in 1941.
 He moved to New York City in 1961 to join the burgeoning folk scene.
@@ -87,7 +87,7 @@ In 2016, Dylan was awarded the Nobel Prize in Literature.
 
 ### Andy Warhol
 
-<img src="image/Andy_Warhol.jpg" align="left" width="150px" style="margin: 0px 10px 0px 0px;">
+<img src="image/Andy_Warhol.jpg" align="left" width="200px" style="margin: 0px 10px 0px 0px;">
 
 [Andy Warhol](https://en.wikipedia.org/wiki/Andy_Warhol) was born in 1928.
 He moved to New York City in 1949, and transitioned from being a commercial artist to a fine artist concentrating on printmaking,
@@ -100,18 +100,18 @@ Warhol died in 1987.
 
 ### Woody Allen
 
-<img src="image/Woody_Allen.jpg" align="left" width="150px" style="margin: 0px 10px 0px 0px;">
+<img src="image/Woody_Allen.jpg" align="left" width="200px" style="margin: 0px 10px 0px 0px;">
 
 [Woody Allen](https://en.wikipedia.org/wiki/Woody_Allen) was born in 1935, and is a native New Yorker.
 He started work writing comedy for tv and magazines, then did standup comedy,
 and then wrote, directed, and starred in movies from the late 1960s, for which he won many prestigious awards.
 His comedy persona was that of an anxious, insecure, intellectual nebbish, perfect for Mr Jones.
-At the age of 61 he married his partner's adopted daughter. They are still together.
+At the age of 61 he married his daughter. They are still together.
 <br clear="left">
 
 ### Albert Grossman
 
-<img src="image/Albert_Grossman.jpg" align="left" width="150px" style="margin: 0px 10px 0px 0px;">
+<img src="image/Albert_Grossman.jpg" align="left" width="200px" style="margin: 0px 10px 0px 0px;">
 
 [Albert Grossman](https://en.wikipedia.org/wiki/Albert_Grossman) was born in 1926.
 Bob Dylan was the most famous of many significant musical artists that he managed.
@@ -121,7 +121,7 @@ Grossman died in 1986, while flying on a Concorde.
 
 ### Leonard Bernstein
 
-<img src="image/Leonard_Bernstein.jpg" align="left" width="150px" style="margin: 0px 10px 0px 0px;">
+<img src="image/Leonard_Bernstein.jpg" align="left" width="200px" style="margin: 0px 10px 0px 0px;">
 
 [Leonard Bernstein](https://en.wikipedia.org/wiki/Leonard_Bernstein) was born in 1918.
 He moved to New York City in 1941, and lived there the rest of his life.
@@ -132,7 +132,7 @@ He died in 1990.
 
 ### Paul Simon
 
-<img src="image/Paul_Simon.jpg" align="left" width="150px" style="margin: 0px 10px 0px 0px;">
+<img src="image/Paul_Simon.jpg" align="left" width="200px" style="margin: 0px 10px 0px 0px;">
 
 [Paul Simon](https://en.wikipedia.org/wiki/Paul_Simon) was born in 1941, the same year as Bob Dylan.
 He is also considered one of the greatest singer-songwriters of his time, and has received numerous prestigious awards.
@@ -142,7 +142,7 @@ He claims to be 5 foot 3 inches.
 
 ### Joe Dallesandro
 
-<img src="image/Joe_Dallesandro.jpg" align="left" width="150px" style="margin: 0px 10px 0px 0px;">
+<img src="image/Joe_Dallesandro.jpg" align="left" width="200px" style="margin: 0px 10px 0px 0px;">
 
 [Joe Dallesandro](https://en.wikipedia.org/wiki/Joe_Dallesandro) was a nude model and Warhol "superstar" who appeared
 in several of Warhol's movies, such as the aptly titled *Flesh* and *Trash*.
@@ -154,7 +154,7 @@ This is disputed.
 
 ### Divine
 
-<img src="image/Divine.jpg" align="left" width="150px" style="margin: 0px 10px 0px 0px;">
+<img src="image/Divine.jpg" align="left" width="200px" style="margin: 0px 10px 0px 0px;">
 
 [Divine](https://en.wikipedia.org/wiki/Divine_(performer)) was the stage name of the drag queen alter ego of Harris Glenn Milstead.
 He was born in 1945, in Baltimore, where he became closely assocaited with the director John Waters, acting in many of his movies,
@@ -166,7 +166,7 @@ Here he stands in for someone who would not be out of place at a Warhol Factory 
 
 ### Robert Mapplethorpe
 
-<img src="image/Robert_Mapplethorpe.jpg" align="left" width="150px" style="margin: 0px 10px 0px 0px;">
+<img src="image/Robert_Mapplethorpe.jpg" align="left" width="200px" style="margin: 0px 10px 0px 0px;">
 
 [Robert Mapplethorpe](https://en.wikipedia.org/wiki/Robert_Mapplethorpe) was born in New York City in 1946.
 He was an art photographer best known for his black and white flower studies and controversial portraits documenting the gay kink scene.
@@ -177,7 +177,7 @@ He died in 1989.
 
 ### Patti Smith
 
-<img src="image/Patti_Smith.jpg" align="left" width="150px" style="margin: 0px 10px 0px 0px;">
+<img src="image/Patti_Smith.jpg" align="left" width="200px" style="margin: 0px 10px 0px 0px;">
 
 [Patti Smith](https://en.wikipedia.org/wiki/Patti_Smith) was also born in 1946.
 She moved to New York City in 1967, where she was a poet and performance artist, eventually morphing into a renowned rock singer.
@@ -187,7 +187,7 @@ She accepted the Nobel Prize for Literature on behalf of Bob Dylan.
 
 ### Lou Reed
 
-<img src="image/Lou_Reed.jpg" align="left" width="150px" style="margin: 0px 10px 0px 0px;">
+<img src="image/Lou_Reed.jpg" align="left" width="200px" style="margin: 0px 10px 0px 0px;">
 
 [Lou Reed](https://en.wikipedia.org/wiki/Lou_Reed) was born in 1942, and was a native New Yorker.
 He founded the famously influential band *The Velvet Underground* in 1965.
@@ -198,7 +198,7 @@ He died in 2013.
 
 ### Rico "Ratso" Rizzo
 
-<img src="image/Rico_Rizzo.jpg" align="left" width="150px" style="margin: 0px 10px 0px 0px;">
+<img src="image/Rico_Rizzo.jpg" align="left" width="200px" style="margin: 0px 10px 0px 0px;">
 
 Enrico Salvatore Rizzo was a fictional character, a sickly Italian-American low-life New York City hustler,
 in the movie *Midnight Cowboy* (1969).
@@ -209,7 +209,7 @@ Rico dies on a Greyhound bus on the way to Florida, in the arms of ...
 
 ### Joe Buck
 
-<img src="image/Joe_Buck.jpg" align="left" width="150px" style="margin: 0px 10px 0px 0px;">
+<img src="image/Joe_Buck.jpg" align="left" width="200px" style="margin: 0px 10px 0px 0px;">
 
 Joe Buck was a fictional character, a handsome young Texan self-declared stud, who moved to New York City as a male prostitute,
 in the movie *Midnight Cowboy* (1969).
@@ -218,7 +218,7 @@ He was played by [Jon Voight](https://en.wikipedia.org/wiki/Jon_Voight).
 
 ### Martin Scorsese
 
-<img src="image/Martin_Scorsese.jpg" align="left" width="150px" style="margin: 0px 10px 0px 0px;">
+<img src="image/Martin_Scorsese.jpg" align="left" width="200px" style="margin: 0px 10px 0px 0px;">
 
 [Martin Scorsese](https://en.wikipedia.org/wiki/Martin_Scorsese) was born in 1942, and is a native New Yorker.
 His entire working life has been devoted to cinema, and he is universally regarded as one of the preeminent directors of his time.
@@ -229,7 +229,7 @@ Subsequently, he made *Rolling Thunder Revue: a Bob Dylan Story by Martin Scorse
 
 ## The making of the artwork
 
-Since I have literally no visual imagination, I have to work hard to get ideas for my paintings.
+Since I have aphantasia (literally no visual imagination), I have to work hard to get ideas for my paintings.
 The advent of text-to-image generative AI therefore appealed to me as a source of visual inspiration,
 with the bonus that I could experience firsthand what I consider one of the greatest engineering feats of my former field of work,
 Computer Science.
@@ -237,9 +237,9 @@ Computer Science.
 Text-to-image starts with text, and lyrics of favorite songs appealed as a source.
 A painting based on Leonard Cohen's *Famous Blue Raincoat* turned out well.
 So I thought I'd try a more complex song.
-*Ballad of a Thin Man* appealed beacuse of its very inscrutability.
+*Ballad of a Thin Man* appealed because of its very inscrutability.
 I did not realize how challenging it would prove to be.
-I used the open-source Stable Diffusion on my own modest PC to generate prototype components of the illustration,
+I started with the open-source Stable Diffusion on my own modest PC to generate prototype components of the illustration,
 but did a lot of subsequent image manipulation and drawing using Affinity Photo and Procreate.
 Many thousands of images would have been generated as the artwork evolved.
 
@@ -249,9 +249,17 @@ Eventually, I decided the tone had to be satirical.
 With the cast of characters growing by the day, I settled on something like the Mad Magazine movie parodies of my youth in the 1960s,
 which had the virtue of belonging to the same time period as the song.
 
+When Nana Banana Pro was released I could finally achieve the results I imagined (non-visually!).
+
 So this artwork is intended as a tribute to that golden age of illustration,
 and in particular [Jack Davis](https://en.wikipedia.org/wiki/Jack_Davis_(cartoonist)),
 whose amazing vitality it unfortunately lacks.
 Hence the [Alfred E. Neuman](https://en.wikipedia.org/wiki/Alfred_E._Neuman) Warhol-style print on the wall.
 The subject of the other Warhol-style print is the sort of thing I imagine Jack Davis might have chosen,
 had he lived in our time.
+
+## The movie poster version
+
+Inspired by Jack Davis's great movie poster for "Its a Mad, Mad, Mad, Mad World", I adapted my cartoon in a similar fashion.
+
+![Ballad of a Thin Man, © Paul Pritchard, 2026](Ballad_of_a_Thin_Man_movie_poster_medium.jpg)
