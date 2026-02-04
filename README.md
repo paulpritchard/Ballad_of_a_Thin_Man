@@ -26,8 +26,8 @@ So our man is represented by the quintessential anxious intellectual New Yorker,
 He has a pencil in his hand, as specified in the song.
 
 Mr Jones "see[s] somebody naked" in the first verse, and asks "Who is that man?".
-The answer is Joe Dallesandro, a typical member of Warhol's crew (if that is possible),
-who was a nude model and gay icon, and starred (if that is possible) in several Warhol movies, starting with *Lonesome Cowboys* in 1968.
+The answer is Joe Dallesandro, a typical (if that is possible) member of Warhol's crew,
+who was a nude model and gay icon, and featured in several Warhol movies, starting with *Lonesome Cowboys* in 1968.
 
 A "geek" "walks up" to Mr Jones and hands him a bone.
 The word "geek" back then meant something like a circus freak. A gross man, one might say.
