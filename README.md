@@ -106,7 +106,7 @@ Warhol died in 1987.
 He started work writing comedy for tv and magazines, then did standup comedy,
 and then wrote, directed, and starred in movies from the late 1960s, for which he won many prestigious awards.
 His comedy persona was that of an anxious, insecure, intellectual nebbish, perfect for Mr Jones.
-At the age of 61 he married his daughter. They are still together.
+At the age of 61 he married the adopted daughter of his former long-term partner. They are still together.
 <br clear="left">
 
 ### Albert Grossman
